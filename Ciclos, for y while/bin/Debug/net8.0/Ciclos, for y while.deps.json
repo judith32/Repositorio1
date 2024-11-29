@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ciclos, for y while/1.0.0": {
+        "runtime": {
+          "Ciclos, for y while.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ciclos, for y while/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

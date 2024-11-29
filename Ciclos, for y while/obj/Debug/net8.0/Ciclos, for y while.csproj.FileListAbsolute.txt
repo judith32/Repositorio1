@@ -1,0 +1,14 @@
+C:\Users\Judith Lobato\Downloads\Ciclos, for y while\Ciclos, for y while\bin\Debug\net8.0\Ciclos, for y while.exe
+C:\Users\Judith Lobato\Downloads\Ciclos, for y while\Ciclos, for y while\bin\Debug\net8.0\Ciclos, for y while.deps.json
+C:\Users\Judith Lobato\Downloads\Ciclos, for y while\Ciclos, for y while\bin\Debug\net8.0\Ciclos, for y while.runtimeconfig.json
+C:\Users\Judith Lobato\Downloads\Ciclos, for y while\Ciclos, for y while\bin\Debug\net8.0\Ciclos, for y while.dll
+C:\Users\Judith Lobato\Downloads\Ciclos, for y while\Ciclos, for y while\bin\Debug\net8.0\Ciclos, for y while.pdb
+C:\Users\Judith Lobato\Downloads\Ciclos, for y while\Ciclos, for y while\obj\Debug\net8.0\Ciclos, for y while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Judith Lobato\Downloads\Ciclos, for y while\Ciclos, for y while\obj\Debug\net8.0\Ciclos, for y while.AssemblyInfoInputs.cache
+C:\Users\Judith Lobato\Downloads\Ciclos, for y while\Ciclos, for y while\obj\Debug\net8.0\Ciclos, for y while.AssemblyInfo.cs
+C:\Users\Judith Lobato\Downloads\Ciclos, for y while\Ciclos, for y while\obj\Debug\net8.0\Ciclos, for y while.csproj.CoreCompileInputs.cache
+C:\Users\Judith Lobato\Downloads\Ciclos, for y while\Ciclos, for y while\obj\Debug\net8.0\Ciclos, for y while.dll
+C:\Users\Judith Lobato\Downloads\Ciclos, for y while\Ciclos, for y while\obj\Debug\net8.0\refint\Ciclos, for y while.dll
+C:\Users\Judith Lobato\Downloads\Ciclos, for y while\Ciclos, for y while\obj\Debug\net8.0\Ciclos, for y while.pdb
+C:\Users\Judith Lobato\Downloads\Ciclos, for y while\Ciclos, for y while\obj\Debug\net8.0\Ciclos, for y while.genruntimeconfig.cache
+C:\Users\Judith Lobato\Downloads\Ciclos, for y while\Ciclos, for y while\obj\Debug\net8.0\ref\Ciclos, for y while.dll
